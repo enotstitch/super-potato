@@ -30,7 +30,7 @@
 
 ---
 
-![Супер-картошка в деле](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Супер-картошка в деле](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1qNm12YXZobWg1NG9nNGJ1M3NxejFjanYzNzEyYjYwdGtib3lreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4vbdZ9r8hf0pqBxOS/giphy.gif)
 
 ---
 
