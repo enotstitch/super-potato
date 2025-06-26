@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/enotstitch/super-potato.git"
   },
+  "type": "module",
   "author": "Anna Kessler",
   "scripts": {
     "dev": "vite",
